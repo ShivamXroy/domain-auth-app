@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Domain Auth",
+    "slug": "domain-auth-app",
+    "scheme": "domainauth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "expo-web-browser"],
+    "web": { "bundler": "metro", "output": "single" },
+    "android": { "package": "com.hbplus.domainauth" },
+    "ios": { "bundleIdentifier": "com.hbplus.domainauth" },
+    "extra": { "router": {} }
+  }
+}

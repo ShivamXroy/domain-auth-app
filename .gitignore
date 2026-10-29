@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.jest-cache/
+dist/
+web-build/
+.env
+.env.*
+!.env.example
+*.keystore
+*.p8
+*.mobileprovision
+service-account*.json
+firebase-adminsdk-*.json
+npm-debug.log*
